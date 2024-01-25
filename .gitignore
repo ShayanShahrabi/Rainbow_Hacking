@@ -2,3 +2,6 @@
 __pycache__/
 output.csv
 source.csv
+result.csv
+ideas.txt
+source.py
